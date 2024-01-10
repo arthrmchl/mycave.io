@@ -23,3 +23,7 @@
 /public/assets/
 /assets/vendor
 ###< symfony/asset-mapper ###
+
+###> JetBrains config folder ###
+/.idea
+###< JetBrains config folder ###

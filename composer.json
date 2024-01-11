@@ -1,4 +1,6 @@
 {
+    "name": "mycave.io",
+    "description": "The solution to manage your collections of things.",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",

@@ -18,7 +18,7 @@ class Developer
     #[ORM\Column(length: 255)]
     private ?string $name = null;
 
-    #[ORM\ManyToMany(targetEntity: VideoGame::class, mappedBy: 'developer')]
+    #[ORM\ManyToMany(targetEntity: VideoGame::class, mappedBy: 'developers')]
     private Collection $videoGames;
 
     public function __construct()

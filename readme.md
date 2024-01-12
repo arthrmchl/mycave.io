@@ -4,6 +4,7 @@ The solution to manage your collections of things.
 ### Basic information
 * Symfony 7.0.2
 * PHP 8.3.1
+* PostgreSQL 15.1
 
 ### Roadmap
 * Manage video-games
